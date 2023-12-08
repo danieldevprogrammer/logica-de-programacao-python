@@ -1,6 +1,6 @@
 # Estudos de Lógica de Programação em Python
 
-Bem-vindo ao meu repositório de estudos de lógica de programação em Python! Aqui, compartilho códigos e projetos relacionados ao meu aprendizado e prática de lógica de programação utilizando a linguagem Python.
+Bem-vindo ao meu repositório de estudos de lógica de programação em Python! Aqui, compartilho códigos e projetos relacionados ao meu aprendizado e prática de lógica de programação utilizando a linguagem Python3.
 
 ## Estrutura do Repositório
 
@@ -20,9 +20,11 @@ Se você identificar oportunidades de melhoria nos códigos, encontrar erros ou 
 
 ## Observações
 
-- Certifique-se de respeitar as licenças associadas a cada código Python, especialmente se você planeja usar ou compartilhar esses códigos.
+- Certifique-se de respeitar as licenças e versões associadas a cada código Python, especialmente se você planeja usar ou compartilhar esses códigos.
 
 - Os códigos são uma expressão do meu progresso na lógica de programação em Python e podem ser aprimorados ao longo do tempo.
+  
+- Os códigos feitos para o desenvolvimento desses exercícios de logica de programação sao feitos pela versão Pyhton3.
 
 ## Contato
 
