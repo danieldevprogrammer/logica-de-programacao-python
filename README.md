@@ -1,4 +1,4 @@
-# Repositório de Estudos de Lógica de Programação em Python
+# Estudos de Lógica de Programação em Python
 
 Bem-vindo ao meu repositório de estudos de lógica de programação em Python! Aqui, compartilho códigos e projetos relacionados ao meu aprendizado e prática de lógica de programação utilizando a linguagem Python.
 
