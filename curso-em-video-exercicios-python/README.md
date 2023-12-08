@@ -1,10 +1,10 @@
-# Exercícios de Lógica de Programação em Python - Curso em Vídeo
+# Exercícios de Lógica de Programação em Python - Curso em Vídeo - EM ANDAMENTO!
 
 Bem-vindo à coleção de 150 exercícios de lógica de programação em Python do "Curso em Vídeo"! Esta pasta contém uma variedade de exercícios projetados para aprimorar suas habilidades de programação em Python.
 
 ## Organização dos Exercícios
 
-Os exercícios estão organizados em subpastas, cada uma abordando diferentes conceitos e desafios de lógica de programação. Aqui está uma visão geral das categorias:
+Os exercícios estão organizados, cada uma abordando diferentes conceitos e desafios de lógica de programação. Aqui está uma visão geral das categorias:
 
 - **/estruturas_de_controle:** Exercícios relacionados a estruturas de controle de fluxo, como condicionais e loops.
 
