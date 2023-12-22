@@ -1,6 +1,8 @@
-# Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
+# Ex. 012 - Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
 price = float(input('Qual é o preço do produto? R$'))
-discount = (price * 5 / 100)
+
+discount = price * 5 / 100
+
 newPrice = price - discount
 
 print(
