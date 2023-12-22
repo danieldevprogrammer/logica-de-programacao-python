@@ -8,4 +8,4 @@ costPerKm = kmDriven * 0.15
 
 totalPayable = costPerDay + costPerKm
 
-print(f'O total a pagar é de R${totalPayable:.2f}')
+print(f'O total a pagar é de R${totalPayable:.2f}.')
