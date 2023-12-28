@@ -3,7 +3,7 @@ name = str(input('Digite seu nome completo: ')).strip()
 
 splitName = name.split()
 firstName = splitName[0]
-lastName = 
+lastName = splitName[len(splitName) - 1]
 
 print('Muito prazer em te conhecer!')
 print(f'Seu primeiro nome é {firstName}.')
