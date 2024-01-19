@@ -5,10 +5,11 @@ speed = float(input('Qual a velocidade atual do carro em Km/h? '))
 
 
 if speed > 80:
-    print('MULTADO! Você excedeu o limite permitido que é de 80Km/h')
+    print(
+        '\033[31m''MULTADO! Você excedeu o limite permitido que é de 80Km/h''\033[m')
 
     trafficTicket = (speed - 80) * 7
-    print(f'Você deve pagar uma multa de R${trafficTicket}')
+    print('\033[33m'f'Você deve pagar uma multa de R${trafficTicket}')
 
 
-print('Tenha um bom dia! Dirija com segurança!')
+print('\033[32m''Tenha um bom dia! Dirija com segurança!''\033[m')
